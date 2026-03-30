@@ -1,3 +1,3 @@
 # ai_chatBot
-#backend run - cd backend
+#backend and frontend run - cd backend
 npm run dev     
